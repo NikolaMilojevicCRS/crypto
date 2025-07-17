@@ -1,0 +1,48 @@
+ 
+Na osnovu istraživanja, ECD.rs je prva licencirana kripto menjačnica u Srbiji od 2012. godine, koja nudi:
+•	Kupovinu/prodaju preko 16 kriptovaluta i RSD (ECD, Ekapija)
+•	Mobilnu aplikaciju ECD Wallet sa 65 000+ preuzimanja (Google Play)
+•	Video identifikaciju i lične verifikacije na više lokacija (ECD)
+Evo konkretnih predloga za unapređenje novog sajta:
+1. Struktura i navigacija
+1.	Jasan header – uključiti logo, opcije “Menjačnica”, “Wallet”, “Kriptomati”, “Verifikacija”, “O nama”, “Kontakt”.
+2.	Sticky navigacija koja prati korisnika pri skrolovanju.
+3.	Hero sekcija:
+o	Kratka poruka: „Prva licencirana kripto menjačnica u Srbiji od 2012“
+o	CTA dugmad: „Kupi kripto“, „Preuzmi Wallet“
+2. UX/UI dizajn
+•	Ikonice i vizuali: koristiti ilustracije iz aplikacije (slajder izgleda osobnog Wallet-a), ikone za proces verifikacije, podržane kriptovalute.
+•	Proces prikaza verifikacije: korak-po-korak vizuelni prikaz (kao na slici video identifikacije) za veću jasnoću i angažman.
+•	Mobile-first dizajn: optimizovan prikaz CTA, menija i verifikacije – ima smisla zbog mobilnih korisnika.
+3. Sadržaj koji gradi poverenje
+•	Sekcija “Zašto ECD?”
+o	Isticanje licence i sigurnosti od 2012. (ResearchGate, Ekapija, ECD, ECD)
+o	Statistika: broj korisnika, transakcija, sigurnosna evidencija
+•	Usluge na pregledu
+o	ECD Wallet: opis + screenshot + podporžane kriptovalute (BTC, ETH, SOL, ADA...). (Ekapija, ECD, ECD)
+o	Menjačnica: pokazati interfejs „Kupi/Prodaj“ + kripto RSD mehanizam (tvojaonlinezarada.com)
+•	Verifikacija
+o	Prikaz opcija: video identifikacija i lično – jasno sa slikama iz uputstava (ECD)
+o	Mapa lokacija uz CTA „Nađi najbližu“
+•	Podrška i edukacija
+o	Linkovi na blog postove: npr. „Kako povući sredstva sa Coinbase“ (ECD)
+o	Video tutorijali i mini FAQ sekcija
+4. Tehnički aspekti
+•	Brzina sajta: optimizacija slike, lazy load, CDN.
+•	SEO i metapodaci: meta opisi, OpenGraph, Schema označavanje usluga.
+•	SSL i sigurnost: prikaz „Regulisano od strane NBS i Komisije za hartije“.
+5. Konverzija i angažman
+•	CTA na vidljivom mestu: „Registruj se“, „Preuzmi Wallet“, „Kupi BTC“.
+•	Trust badges: “Dozvola Narodne banke”, “Zero sigurnosnih incidenata”. (Ekapija, ECD, ECD, ECD)
+•	Widget za brzu podršku: chat bot ili „Kontaktiraj nas“.
+•	Recenzije i korisničke priče: citati zadovoljnih korisnika.
+6. Sitemap predlog
+•	Početna (heroj + usluge + verifikacija + trust + CTA)
+•	Menjačnica
+•	ECD Wallet
+•	Kriptomati
+•	Verifikacija
+•	Blog / Edukacija
+•	O nama (licenca, tim, istorija)
+•	Podrška / FAQ
+•	Kontakt / Lokacije
