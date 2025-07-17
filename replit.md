@@ -116,3 +116,21 @@ The application is specifically designed for the Serbian cryptocurrency market, 
 - **Maintained accessibility** while implementing brand colors
 - **Preserved component structure** with updated color scheme
 - **Enhanced visual hierarchy** through strategic color application
+
+### Conversion Optimization Features
+- **Registration Incentives Section** with value propositions:
+  - 0% commission on first 3 transactions
+  - Up to 2% better exchange rates for registered users
+  - Maximum security with 2FA and insurance
+  - Social proof with user statistics and app rating
+- **Price Comparison Table** showing competitive advantages
+- **Customer Testimonials** with authentic user reviews
+- **Urgency Elements** for limited-time offers
+- **Multiple CTA Opportunities** strategically placed throughout site
+
+### Psychology-Based Features for Registration
+- **Social Proof**: 65,000+ users, 4.8/5 rating, 13 years experience
+- **Value Proposition**: Clear benefits of registration vs. direct transactions
+- **Competitive Advantage**: Side-by-side comparison with competitors
+- **Trust Building**: Customer testimonials and regulatory compliance
+- **Urgency**: Time-limited offers to encourage immediate action
