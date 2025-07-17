@@ -1,0 +1,97 @@
+Na osnovu analize UX/UI pristupa sajta **ECD.rs** u poređenju sa vodećim međunarodnim kripto menjačnicama (Binance, Coinbase, Kraken, Crypto.com, Bitstamp), evo **konkretnih preporuka za unapređenje** sajta ECD.rs:
+
+---
+
+## 🎯 **1. Pojednostavi navigaciju i fokusiraj tok korisnika**
+
+* **Problem:** Glavni meni ima previše stavki i može delovati zagušeno za novog korisnika.
+* **Preporuka:**
+
+  * Skratiti meni na 3–5 ključnih stavki: *Početna, Kupi/Prodaj, Usluge, O nama, Prijavi se*.
+  * Dodati **fokusirani “Get Started” flow** – poput sekcije *Kako da počnete*, ali sa CTA dugmetom koje vodi kroz onboarding (korak po korak).
+  * Istaknuti *Kupi kripto odmah* kao glavni CTA (kao što Kraken i Binance rade).
+
+---
+
+## 🎨 **2. Vizuelno osvežavanje i snažniji brending**
+
+* **Problem:** Dizajn je funkcionalan, ali ne ostavlja jak emocionalni utisak.
+* **Preporuka:**
+
+  * Dodati **kontrastniju paletu** – ljubičasta može ostati, ali treba je kombinovati s jakim CTA bojama (npr. zlatna/zelena za *Kupi*).
+  * Koristiti **vizualne hero sekcije** sa kratkim sloganim (npr. *“Najbrži način da kupite Bitcoin u Srbiji”*).
+  * Uvesti **animacije ikonica** (npr. scroll-trigger pokreti kao kod Crypto.com ili Radix UI komponenata).
+
+---
+
+## 🔐 **3. Pojačaj trust-signale i “proof of legitimacy”**
+
+* **Problem:** Sigurnost se pominje, ali nije dominantan trust signal.
+* **Preporuka:**
+
+  * Dodati **“Trusted by X clients”** + prikaz broja korisnika i transakcija kao grafikon.
+  * Prikazati **sigurnosne bedževe/sertifikate** (Fireblocks, ISO standardi ako postoje, partneri).
+  * Uvesti **korisničke recenzije/testimonijale** na početnu stranu (čak i sa lokalnih foruma ako nemate Google Review).
+
+---
+
+## 📱 **4. Naglasi prednosti ECD Wallet-a kao core ponude**
+
+* **Problem:** Mobilna aplikacija je pomenuta, ali nije marketinški istaknuta.
+* **Preporuka:**
+
+  * Dodati sekciju *ECD Wallet – u džepu nosiš svoju menjačnicu* sa slikom aplikacije u ruci + CTA *Preuzmi*.
+  * Uvesti **QR kod** za direktno preuzimanje.
+  * Prikazati **glavne funkcije aplikacije** kao slider: *Kupovina, Prodaja, Sigurnost, Pregled portfolija, Obaveštenja*.
+
+---
+
+## 📣 **5. Razvij CTA strategiju i funnel logiku**
+
+* **Problem:** Dugmad za registraciju i akcije su raspoređena, ali bez jasnog funnel-a.
+* **Preporuka:**
+
+  * Uvesti **persistent CTA bar** (plutajuće dugme “Kupi kripto” u mobilnoj verziji).
+  * Na sve ključne sekcije dodati jasne akcije: *Saznaj više, Pokreni kupovinu, Otvori nalog*.
+  * Napraviti **CTA personalizaciju**: *”Prvi put? Počni ovde”* vs. *”Već imaš Wallet? Prijavi se”*.
+
+---
+
+## 🗣️ **6. Unesi dodatnu lokalizaciju i edukaciju**
+
+* **Problem:** Posetilac može znati malo o kriptu – potrebno je graditi edukaciju + poverenje.
+* **Preporuka:**
+
+  * Dodati **blog/video sekciju** *“Šta je Bitcoin? Kako početi?”* na prvu stranicu (kao Coinbase Learn).
+  * Istaknuti lokalne partnere (*”Prepoznati od X banaka”*, *“U saradnji sa Narodnom bankom Srbije”* ako je primenljivo).
+  * Uvesti **FAQ kao modal** u sklopu svakog koraka (npr. u kupovini, verifikaciji...).
+
+---
+
+## 🌍 **7. Planiraj internacionalizaciju (EN verzija sajta)**
+
+* **Problem:** Sajt je odličan za srpsko tržište, ali nije spreman za strane korisnike.
+* **Preporuka:**
+
+  * Dodati **toggle jezik SR ↔ EN** u zaglavlju.
+  * Pripremiti EN verziju sajta sa istim strukturama + lokalizovanim porukama.
+  * Izdvojiti *“We’re a regulated exchange from Serbia”* kao prednost na stranim tržištima.
+
+---
+
+## 🧠 BONUS – Inspiriši se liderima:
+
+* **Binance:** jasno razdvojene sekcije za početnike i pro korisnike, boje koje odskaču.
+* **Coinbase:** jednostavnost i edukativni sadržaj na svakoj stranici.
+* **Crypto.com:** moderan dizajn, tamni mod, naglašavanje aplikacije i “Get Started” dugmadi svuda.
+* **Kraken:** sigurnost u fokusu, proof-of-reserves i institucionalni ton.
+
+---
+
+Ako želiš, mogu ti i:
+
+* Napraviti **wireframe/redizajn početne strane**
+* Pripremiti **konkretne tekstove za CTA sekcije**
+* Analizirati koje reči i elementi povećavaju konverziju na landing stranama
+
+Samo reci kako želiš dalje da nastavimo.

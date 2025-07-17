@@ -8,12 +8,10 @@ export default function Header() {
   const isMobile = useIsMobile();
 
   const navItems = [
-    { label: "Menjačnica", href: "#menjanica" },
-    { label: "Wallet", href: "#wallet" },
-    { label: "Kriptomati", href: "#kriptomati" },
-    { label: "Verifikacija", href: "#verifikacija" },
+    { label: "Početna", href: "#" },
+    { label: "Kupi/Prodaj", href: "#kupi-prodaj" },
+    { label: "Usluge", href: "#usluge" },
     { label: "O nama", href: "#o-nama" },
-    { label: "Kontakt", href: "#kontakt" },
   ];
 
   return (
@@ -44,8 +42,11 @@ export default function Header() {
           
           <div className="hidden md:block">
             <div className="ml-4 flex items-center md:ml-6 space-x-3">
-              <Button className="bg-primary text-primary-foreground hover:bg-primary/90">
-                Registruj se
+              <Button variant="outline" className="border-ecd-navy text-ecd-navy hover:bg-ecd-navy hover:text-white">
+                Prijavi se
+              </Button>
+              <Button className="bg-ecd-orange text-white hover:bg-orange-600">
+                Registruj se odmah
               </Button>
             </div>
           </div>
