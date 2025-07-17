@@ -42,7 +42,7 @@ export default function Footer() {
   ];
 
   return (
-    <footer className="bg-gray-900 text-white">
+    <footer className="bg-ecd-navy text-white">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
@@ -86,7 +86,7 @@ export default function Footer() {
           ))}
         </div>
         
-        <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
+        <div className="border-t border-gray-600 mt-8 pt-8 text-center text-gray-300">
           <p>&copy; 2025 ECD.rs. Sva prava zadržana.</p>
           <p className="mt-2 text-sm">
             ECD.rs je regulisano od strane Narodne banke Srbije i registrovano u Agenciji za privredne registre Republike Srbije.

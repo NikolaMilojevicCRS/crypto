@@ -6,7 +6,7 @@ export default function TrustIndicators() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
           <div>
-            <div className="text-4xl lg:text-5xl font-bold text-primary mb-2">
+            <div className="text-4xl lg:text-5xl font-bold ecd-navy mb-2">
               2012
             </div>
             <p className="text-muted-foreground text-lg">
@@ -14,7 +14,7 @@ export default function TrustIndicators() {
             </p>
           </div>
           <div>
-            <div className="text-4xl lg:text-5xl font-bold text-primary mb-2">
+            <div className="text-4xl lg:text-5xl font-bold ecd-orange mb-2">
               24/7
             </div>
             <p className="text-muted-foreground text-lg">
@@ -22,7 +22,7 @@ export default function TrustIndicators() {
             </p>
           </div>
           <div>
-            <div className="text-4xl lg:text-5xl font-bold text-primary mb-2">
+            <div className="text-4xl lg:text-5xl font-bold ecd-navy mb-2">
               1 min
             </div>
             <p className="text-muted-foreground text-lg">

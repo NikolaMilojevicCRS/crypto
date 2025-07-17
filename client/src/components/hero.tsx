@@ -9,7 +9,7 @@ export default function Hero() {
           <div>
             <h1 className="text-4xl lg:text-6xl font-bold text-foreground mb-6">
               Jednostavne kripto<br />
-              <span className="text-primary">od 2012. godine.</span>
+              <span className="ecd-orange">od 2012. godine.</span>
             </h1>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
               Kupujte i prodajte kriptovalute{" "}
@@ -19,14 +19,14 @@ export default function Hero() {
             <div className="flex flex-col sm:flex-row gap-4">
               <Button
                 size="lg"
-                className="bg-primary text-primary-foreground hover:bg-primary/90 text-lg px-8 py-4"
+                className="bg-ecd-orange text-white hover:bg-orange-600 text-lg px-8 py-4"
               >
                 Kupi kripto
               </Button>
               <Button
                 size="lg"
                 variant="outline"
-                className="border-2 border-primary text-primary hover:bg-primary hover:text-primary-foreground text-lg px-8 py-4"
+                className="border-2 border-ecd-navy text-ecd-navy hover:bg-ecd-navy hover:text-white text-lg px-8 py-4"
               >
                 Preuzmi Wallet
               </Button>

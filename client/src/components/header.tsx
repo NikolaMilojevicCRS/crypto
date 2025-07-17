@@ -17,12 +17,12 @@ export default function Header() {
   ];
 
   return (
-    <header className="sticky top-0 z-50 bg-white border-b border-border shadow-sm">
+    <header className="sticky top-0 z-50 bg-white dark:bg-ecd-navy border-b border-border shadow-sm">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <div className="flex-shrink-0">
-              <div className="text-2xl font-bold text-primary">ECD.rs</div>
+              <div className="text-2xl font-bold ecd-navy dark:text-white">ECD.rs</div>
             </div>
           </div>
           
@@ -33,7 +33,7 @@ export default function Header() {
                   <a
                     key={item.label}
                     href={item.href}
-                    className="text-foreground hover:text-primary px-3 py-2 text-sm font-medium transition-colors"
+                    className="text-foreground dark:text-white hover:text-primary dark:hover:ecd-orange px-3 py-2 text-sm font-medium transition-colors"
                   >
                     {item.label}
                   </a>

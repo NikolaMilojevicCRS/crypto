@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 
 export default function CTASection() {
   return (
-    <section className="py-16 bg-primary text-primary-foreground">
+    <section className="py-16 bg-ecd-navy text-white">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h2 className="text-3xl lg:text-4xl font-bold mb-4">
           Spreman za kripto trgovinu?
@@ -13,14 +13,14 @@ export default function CTASection() {
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Button 
             size="lg"
-            className="bg-white text-primary hover:bg-gray-100 px-8 py-4 text-lg"
+            className="bg-ecd-orange text-white hover:bg-orange-600 px-8 py-4 text-lg"
           >
             Registruj se besplatno
           </Button>
           <Button 
             size="lg"
             variant="outline"
-            className="border-2 border-white text-white hover:bg-white hover:text-primary px-8 py-4 text-lg"
+            className="border-2 border-white text-white hover:bg-white hover:text-ecd-navy px-8 py-4 text-lg"
           >
             Počni trgovinu
           </Button>

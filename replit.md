@@ -97,3 +97,22 @@ The application is specifically designed for the Serbian cryptocurrency market, 
 - **Local compliance messaging** highlighting NBS regulation
 - **Trust indicators** emphasizing 12+ years of operation
 - **Mobile-optimized experience** for the ECD Wallet promotion
+
+## Recent Changes (July 17, 2025)
+
+### Brand Color Implementation
+- **Updated color scheme** to match ECD Wallet mobile application
+- **Primary color changed** from bright blue to ECD navy (hsl(218, 54%, 20%))
+- **Accent color changed** to ECD orange (hsl(28, 100%, 50%))
+- **Applied brand colors** across all components:
+  - Header with navy branding
+  - Hero section with orange accent for tagline
+  - CTA buttons using orange for primary actions
+  - Footer and CTA section in navy background
+  - User advantages section with brand color highlights
+  - Trust indicators alternating navy/orange numbers
+
+### Design Consistency
+- **Maintained accessibility** while implementing brand colors
+- **Preserved component structure** with updated color scheme
+- **Enhanced visual hierarchy** through strategic color application
